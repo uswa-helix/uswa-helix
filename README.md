@@ -21,10 +21,16 @@ I build practical, domain-specific AI models, ranging from clinical diagnostic p
 ###  Featured Projects
 
 **[Clinical Breast Cancer Detection](https://github.com/uswa-helix/breast-cancer-recall-optimization)**  
+
 An end-to-end Machine Learning pipeline using Scikit-Learn that prioritizes **malignant recall**, successfully eliminating False Negatives (0 missed cancers).
 
 **[AI-Driven Clinical Triage System](https://github.com/uswa-helix/AI-Clinical-Triage-System)**  
+
 An automated clinical decision support system built to optimize emergency hospital triage workflows. Engineered by integrating an **LLM API gateway** with **Google Apps Script** to streamline and automate data processing.
+
+**[Parkinson's Disease Detection via Voice Measurements](https://github.com/uswa-helix/Parkinson-s-Disease-Detection-via-Voice-Measurements)**
+
+A clinical Random Forest pipeline designed to detect acoustic vocal degradation in Parkinson's patients. Features strict **patient-level grouping**, custom decision thresholding to eliminate **False Negatives**, and **SHAP feature analysis** for actionable diagnostic insights.
 
 ---
 
